@@ -33,7 +33,7 @@ require 'simplecov-console'
 Capybara.app = BookmarkManager
 
 SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter.new([
-  SimpleCov::Formatter::Console,
+  SimpleCov::Formatter::Console
   ])
   SimpleCov.start
 
