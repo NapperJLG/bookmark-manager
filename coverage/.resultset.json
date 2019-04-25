@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/student/Documents/projects/bookmark-manager/spec/bookmarks_spec.rb": [
+      "/Users/kiahhewitt/Desktop/Projects_Makers/week-4/collaborations/jake-bkmark-mgr/bookmark-manager/spec/bookmarks_spec.rb": [
         1,
         null,
         1,
@@ -23,7 +23,23 @@
         null,
         null
       ],
-      "/Users/student/Documents/projects/bookmark-manager/spec/feature_test_spec.rb": [
+      "/Users/kiahhewitt/Desktop/Projects_Makers/week-4/collaborations/jake-bkmark-mgr/bookmark-manager/spec/features/add_bookmark_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/kiahhewitt/Desktop/Projects_Makers/week-4/collaborations/jake-bkmark-mgr/bookmark-manager/spec/features/feature_test_spec.rb": [
         1,
         null,
         1,
@@ -50,6 +66,6 @@
         null
       ]
     },
-    "timestamp": 1556200725
+    "timestamp": 1556208363
   }
 }
